@@ -30,4 +30,5 @@ class Pizza {
 
 const myPizza = new Pizza("Large")
 myPizza.hereYouGo()
+// console.log(myPizza.#sauce)
 console.log(myPizza.sauce)
